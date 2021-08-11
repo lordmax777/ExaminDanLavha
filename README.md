@@ -32,3 +32,4 @@
 ## flutter pub get
 ## flutter run
 
+## [Shu Yerdan Yuklab Olishingiz Mumkun](https://github.com/lordmax777/ExaminDanLavha/blob/main/app-release.apk)
