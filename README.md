@@ -8,8 +8,8 @@
 <a href="https://ibb.co/Hg2jy52"><img src="https://i.ibb.co/nk0Fyx0/1111.jpg" alt="1111" border="0" width=100></a>
 # Flutter App Picture
 
-[<img src="https://i.ibb.co/nk0Fyx0/1111.jpg" alt="1111" border="0" width=100></a>](https://youtu.be/y2IE4eXCtCE)
-[![IMAGE ALT TEXT HERE]("https://i.ibb.co/nk0Fyx0/1111.jpg")](https://youtu.be/y2IE4eXCtCE)
+<img src="https://i.ibb.co/nk0Fyx0/1111.jpg" alt="1111" border="0" width=100></a>](https://youtu.be/y2IE4eXCtCE)
+
 
 # Dasturda ishlatilga Flutter packagelar: </br>
 -[cupertino_icons](https://pub.dev/packages/cupertino_icons) </br>
