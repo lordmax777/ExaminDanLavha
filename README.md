@@ -8,25 +8,23 @@
 <a href="https://ibb.co/Hg2jy52"><img src="https://i.ibb.co/nk0Fyx0/1111.jpg" alt="1111" border="0" width=100></a>
 # Flutter App Picture
 
-[<a href="https://ibb.co/Hg2jy52"><img src="https://i.ibb.co/nk0Fyx0/1111.jpg" alt="1111" border="0" width=100></a>](https://youtu.be/y2IE4eXCtCE)
+[![IMAGE ALT TEXT HERE](https://i.ibb.co/nk0Fyx0/1111.jpg)](https://youtu.be/y2IE4eXCtCE)
 
-# Flutter App Youtube video
+# Dasturda ishlatilga Flutter packagelar: </br>
+-[cupertino_icons](https://pub.dev/packages/cupertino_icons) </br>
+-[sqflite](https://pub.dev/packages/sqflite) </br>
+-[path_provider](https://pub.dev/packages/path_provider) </br>
+-[path](https://pub.dev/packages/path) </br>
+-[synchronized](https://pub.dev/packages/synchronized) </br>
+-[image_picker](https://pub.dev/packages/image_picker) </br>
+-[firebase_core](https://pub.dev/packages/firebase_core) </br>
+-[firebase_auth](https://pub.dev/packages/firebase_auth) </br>
+-[introduction_screen](https://pub.dev/packages/introduction_screen) </br>
+-[tcard](https://pub.dev/packages/tcard) </br>
+-[google_fonts](https://pub.dev/packages/google_fonts) </br>
+-[http](https://pub.dev/packages/http) </br>
+-[firebase](https://pub.dev/packages/firebase) </br>
 
-  cupertino_icons: ^1.0.2
-  introduction_screen: ^2.1.0
-  tcard: ^1.3.5
-  firebase_core:
-  firebase_auth: ^3.0.1
-  pin_code_fields: ^7.3.0
-  sqflite:
-  synchronized:
-  image_picker: ^0.7.0-nullsafety
-  google_fonts: ^2.1.0
-  http: ^0.13.3
-  path_provider: ^2.0.2
-  path: ^1.8.0
-  firebase:
-  
 ## Package in Flutter
 
 ## flutter pub get
